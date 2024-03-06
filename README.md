@@ -1,13 +1,13 @@
-# remote-job-listings
+# remote job listings
 
-This is a collection of job boards specifically for remote IT jobs.
+This is a collection of job boards specifically for remote IT jobs. I made this repo to collect info for friends who were recently laid off. **I'm not affiliated with any of these platforms**. 🫥
 
-I've "curated the list on `2024-03-06`. This means I checked whether:
+I've *curated* the list on `2024-03-06`. This means I checked whether:
 
 * the website works
 * the jobs are kinda new, with the newest posted within a week
 
-| Website | Notes |
+| **Website** | **Notes** |
 |---|---|
 | [Himalayas.app](https://himalayas.app/) | A large percentage of the jobs posted are US-based remote only. |
 | [We Work Remotely](https://weworkremotely.com/remote-jobs/search) | Well maintained and has LinkedIn integration. |
