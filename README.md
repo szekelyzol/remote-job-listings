@@ -2,7 +2,7 @@
 
 This is a collection of job boards specifically for remote IT jobs. I made this repo to collect info for friends who were recently laid off. **I'm not affiliated with any of these platforms**. 🫥
 
-I've *curated* the list on `2024-10-31`. 🎃 This means I checked whether:
+I've *curated* the list on `2024-11-18`. 🎃 This means I checked whether:
 
 * the website works
 * the jobs are kinda new, with the newest posted within a week
@@ -19,3 +19,5 @@ I've *curated* the list on `2024-10-31`. 🎃 This means I checked whether:
 | [No Fluff Jobs](https://nofluffjobs.com/) | All of the jobs posted are for central EU. |
 | [Working Nomads](https://www.workingnomads.com/jobs) | Well maintained, has jobs posted on an hourly basis. |
 | [Hidden Jobs](https://www.hidden-jobs.com/)  | Aggregates positions directly from company career pages. Updated daily. Scary amount of positions listed! |
+| [Hacker News Hiring](https://hnhiring.com/locations/remote)  | Lists remote jobs from [Hacker News' job postings](https://news.ycombinator.com/jobs). |
+| [Welcome to the Jungle](https://www.welcometothejungle.com/en)  | Mainly lists EU jobs. |
