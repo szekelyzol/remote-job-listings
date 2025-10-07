@@ -2,7 +2,7 @@
 
 This is a collection of job boards specifically for remote IT jobs. I made this repo to collect info for friends who were recently laid off. **I'm not affiliated with any of these platforms**... yet? 🫥
 
-I've *curated* the list on `2025-09-07`. This means I checked whether:
+I've *curated* the list on `2025-10-07`. This means I checked whether:
 
 * the website works
 * the jobs are kinda new, with the newest posted within a week
@@ -20,6 +20,5 @@ I've *curated* the list on `2025-09-07`. This means I checked whether:
 | [Wellfound](https://wellfound.com/jobs) | Requires an account. Mostly US-based, but has a nice filter for startups that hire remotely [here](https://wellfound.com/discover/startups?location=remote-friendly). Also has a weekly newsletter that lists recendly funded startups [here](https://wellfound.com/discover/blog/newsletters). Nice! |
 | [No Fluff Jobs](https://nofluffjobs.com/) | Mostly central EU. |
 | [Working Nomads](https://www.workingnomads.com/jobs) | Updated frequentl. |
-| ~~[Hidden Jobs](https://www.hidden-jobs.com/)~~  | Down at the moment. ~~Aggregates positions directly from company career pages. A lot of postings, but not always accurate!~~ |
 | [Hacker News Hiring](https://hnhiring.com/locations/remote)  | Lists remote jobs from [Hacker News' job postings](https://news.ycombinator.com/jobs). |
 | [Welcome to the Jungle](https://www.welcometothejungle.com/en)  | Mainly EU jobs, mostly for France. |
